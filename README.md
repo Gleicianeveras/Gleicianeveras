@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Gleiciane 
 
-<div align="center">
+<div align="">
  <a href="https://github.com/">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleiciane&show_icons=Falso&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
